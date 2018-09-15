@@ -43,7 +43,7 @@ public class Main {
 		testInterfaceVariable(objBird,objFish,objChicken,objSom); //смотреть в последнюю очередь
 		
 		
-		System.out.println("Test5");
+		System.out.println("Test1");
 	}
 	
 	static void format(String className){
