@@ -44,7 +44,7 @@ public class Main {
 		
 		
 		System.out.println("Test1");
-		System.out.println("Тестовое изменение");
+		System.out.println("Тестовое изменение");  
 	}
 	
 	static void format(String className){
